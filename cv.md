@@ -11,7 +11,7 @@ Personal Data
 Work Experience
 ===========
 
-###2016-2017 Programming Contractor for Great Southern Fuels\
+### 2016-2017 Programming Contractor for Great Southern Fuels\
 _Fuel Distributor_  
 • [CRUD Website design and implementation](https://gsfs.azurewebsites.net/Account/Login) 
 • Using ASP.Net MVC and Entity Framework
@@ -20,7 +20,7 @@ _Fuel Distributor_
 • Producing PDF files based on the extracted text 
 • CRUD application for managing fuel orders, jobs, the vehicle fleet, drivers, and customer tanks
 
-###2014-2015 Mechatronics Assistant at Applus RTD \
+### 2014-2015 Mechatronics Assistant at Applus RTD \
 _Non-Destructive Testing_
 
 • Soldering DB9 connectors
@@ -33,7 +33,7 @@ _Non-Destructive Testing_
 • Conducting training for Applus RTD personnel in the use of equipment
 • Completing maintenance reports
 
-###2013 Programmer at Haefeli-Lysnar Surveying Equipment \
+### 2013 Programmer at Haefeli-Lysnar Surveying Equipment \
 _Geospatial Solutions_
 • Receive NMEA strings from a GPS over a serial port using C\#
 • Writing end user manuals
@@ -45,7 +45,7 @@ _Geospatial Solutions_
 • UI design
 • Research and implementation of geographic coordinate systems
 
-###2011-2012 Business Improvement Assistant at Jason Windows \
+### 2011-2012 Business Improvement Assistant at Jason Windows \
 _Glass Manufacture_
 • Data analysis - tracking production and waste material
 • CAD drawings - design of an A frame for carrying glass on a trailer and floor plans
@@ -55,7 +55,7 @@ _Glass Manufacture_
 Education & Training
 ===========
   
-Year  |Qualification / Institution 
+Year  | Qualification / Institution 
 ------|--------------
 2016 &nbsp; | BCompSc Bachelor of Computer Science
 &nbsp; | Charles Sturt University, New South Wales  
@@ -114,7 +114,7 @@ E-mail [Peter.denBoer@jasonwindows.com.au](mailto:Peter.denBoer@jasonwindows.com
 
 \pagebreak
 
-#Bachelor of Computer Science \
+# Bachelor of Computer Science \
 _Charles Sturt University_
 
 _Degree awarded on 9-Dec-2016 with Distinction (GPA 6.6)_
@@ -160,7 +160,7 @@ ITC363| Computer Graphics                    |HD|	8
 
 \pagebreak
 
-#Bachelor of Mechatronic Engineering \
+# Bachelor of Mechatronic Engineering \
 _Curtin University_
 _Course completed on 20-Dec-2013 with Lower Second Class Honours._
 
@@ -227,7 +227,7 @@ Code  |Title                           |Credits&nbsp;|Grade|
 
 &nbsp;
 
-#Exchange Program \
+# Exchange Program \
 _Technical University of Munich_
 &nbsp;
 
