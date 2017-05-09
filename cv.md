@@ -69,6 +69,8 @@ Year  | Qualification / Institution
 &nbsp;
 _See details at the end of document_
 
+\pagebreak
+
 Programming Skills
 ===========
 **Basic Knowledge**  
