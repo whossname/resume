@@ -130,25 +130,31 @@ Code  |Title                                 | Grade |&nbsp;Subject Points
 ITC06C| 6 Unspec Info Tech Subjects          |TCR    |	48
 ITC104| Intro to Computer Science	           |TCR    |	8
 ITC105| ComInfoMan					                 |TCR    |	8
-MTH101&nbsp;| Computer Aided Mathematics 1   |TCR    |	8  
+MTH101&nbsp;| Computer Aided Mathematics 1   |TCR    |	8 
+&nbsp;|&nbsp;                                |&nbsp; | 
 &nbsp;|**2014 60**                           |       |
 ITC203| OO SAD				                       |DI     |	8
 MTH129| Discrete Mathematics		             |DI     |	8
+&nbsp;|&nbsp;                                |&nbsp; |
 &nbsp;|**2015 30**                           |       |
 ITC204| Human Computer Interface	           |DI     |	8
 ITC206| Programming in Java 1		             |HD     |	8
 ITC262| Operating Systems		                 |DI     |	8
 ITC331| Ethics and Prof Prac		             |DI     |	8
+&nbsp;|&nbsp;                                |&nbsp; |
 &nbsp;|**2015 60**                           |       | 
 ITC205| Prof Programming Practice	           |HD     |	8
 ITC212| Internet Technologies		             |HD     |	8
 ITC222| Programming in Java 2		             |HD     |	8
 ITC313| Database Management Systems	         |HD     |	8
+&nbsp;|&nbsp;                                |&nbsp; |
 &nbsp;|**2015 90**                           |       |
 ITC114| Database Management Systems  	       |HD     |	8
+&nbsp;|&nbsp;                                |&nbsp; |
 &nbsp;|**2016 30**                           |       |
 ITC322| Data Structures                      |HD     |	8
 ITC303| Software Development Project 1&nbsp; |DI     |	8
+&nbsp;|&nbsp;                                |&nbsp; |
 &nbsp;|**2016 60**                           |       |
 ITC309| Software Development Project 2&nbsp; |HD     |	8
 ITC363| Computer Graphics                    |HD     |	8
@@ -162,24 +168,24 @@ _Course completed on 20-Dec-2013 with Lower Second Class Honours._
 
 &nbsp;
 
-Code  |Title                           |Credits&nbsp;|Grade
-------|--------------------------------|-------------|------
-&nbsp;|**2009 Semester 1**             |             |
+Code   |Title                          |Credits&nbsp;|Grade
+-------|-------------------------------|-------------|------
+&nbsp; |**2009 Semester 1**            |             |
 307543&nbsp;| Electrical Systems 100   | 25.0        | 5
-310205| Engineering Foundations: Design and Processes 100&nbsp;| 25.0| 6 
-307533| Engineering Materials 100      | 25.0        | 6
-307535| Engineering Mathematics 110    | 25.0        | 7
-&nbsp;|&nbsp;                          |&nbsp;       |
-&nbsp;|**2009 Semester 2**             |&nbsp;       |
-310206| Engineering Foundations: Principles | 25.0   | 5
-&nbsp;|  and Communication 100         |             |
-307537| Engineering Mathematics 130    | 25.0        | 8
-307529| Engineering Mechanics 100      |25.0         |7
-310207| Engineering Programming 100    |12.5         |8
-307594| Engineering; its Evolution, Development, |12.5 |7
-&nbsp;|  Successes and Failures 100    |             |
-&nbsp;|&nbsp;                          |&nbsp;       |
-&nbsp;|**2010 Semester 1**             |&nbsp;       |
+310205 | Engineering Foundations: Design and Processes 100&nbsp;| 25.0| 6 
+307533 | Engineering Materials 100     | 25.0        | 6
+307535 | Engineering Mathematics 110   | 25.0        | 7
+&nbsp; |&nbsp;                         |&nbsp;       |
+&nbsp; |**2009 Semester 2**            |&nbsp;       |
+310206 | Engineering Foundations: Principles | 25.0   | 5
+&nbsp; |  and Communication 100        |             |
+307537 | Engineering Mathematics 130   | 25.0        | 8
+307529 | Engineering Mechanics 100     |25.0         |7
+310207 | Engineering Programming 100   |12.5         |8
+307594 | Engineering; its Evolution, Development, |12.5 |7
+&nbsp; |  Successes and Failures 100   |             |
+&nbsp; |&nbsp;                         |&nbsp;       |
+&nbsp; |**2010 Semester 1**            |&nbsp;       |
 308879 |Electrical Circuits 205        |12.5         |7
 308809 |Engineering Graphics 232       |12.5         |7
 308808 |Engineering Mathematics 233    |12.5         |7
@@ -194,21 +200,21 @@ Code  |Title                           |Credits&nbsp;|Grade
 308822 |Mechatronic Modelling 231      |25.0         |7
 308875 |Programming 215                |12.5         |8
 &nbsp; |&nbsp;                         |&nbsp;       |
-&nbsp; |**2011 Semester 1 **           |&nbsp;       |
+&nbsp; |**2011 Semester 1**            |&nbsp;       |
 308829 |Automatic Control 321          |25.0         |8
 12855  |Embedded Systems Engineering 301 |25.0       |7
 308828 |Mechanical Design 321          |25.0         |6
 308827 |Mechatronic Automation 331     |25.0         |8
 &nbsp; |&nbsp;                         |&nbsp;       |
 &nbsp; |&nbsp;                         |&nbsp;       |
-&nbsp; |**2011 Semester 2 **           |&nbsp;       |
+&nbsp; |**2011 Semester 2**            |&nbsp;       |
 307664 |Engineering Law 202            |12.5         |8
 307660 |Engineering Sustainable Development 201 |12.5|7
 308826 |Manufacturing for Mechatronics 332 |25.0     |7
 308825 |Mechatronic Project 332        |25.0         |6
 12835  |Power Electronics 304          |25.0         |5
 &nbsp; | &nbsp;                        |&nbsp;       |
-&nbsp;|**2012 Semester 2**             |&nbsp;       |
+&nbsp; |**2012 Semester 2**             |&nbsp;       |
 12911  |Automatic Control 432          |25.0         |6
 308787 |Instrumentation and Control 402 |25.0        |7
 11501  |Mechatronic Project 491        |25.0         |5
