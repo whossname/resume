@@ -125,39 +125,39 @@ _Degree awarded on 9-Dec-2016 with Distinction (GPA 6.6)_
 
 
 Code  |Title                                 | Grade |&nbsp;Subject Points
-------|--------------------------------------|-------|
-&nbsp;|**Credit for previous work**
-ITC06C| 6 Unspec Info Tech Subjects          |TCR|	48
-ITC104| Intro to Computer Science	          |TCR|	8
-ITC105| ComInfoMan					          |TCR|	8
-MTH101&nbsp;| Computer Aided Mathematics 1         |TCR|	8  
-|
-&nbsp;|**2014 60**
-ITC203| OO SAD				                  |DI|	8
-MTH129| Discrete Mathematics		          |DI|	8
-|
-&nbsp;|**2015 30**
-ITC204| Human Computer Interface	          |DI|	8
-ITC206| Programming in Java 1		          |HD|	8
-ITC262| Operating Systems		              |DI|	8
-ITC331| Ethics and Prof Prac		          |DI|	8
-|
-&nbsp;|**2015 60**
-ITC205| Prof Programming Practice	          |HD|	8
-ITC212| Internet Technologies		          |HD|	8
-ITC222| Programming in Java 2		          |HD|	8
-ITC313| Database Management Systems	      |HD|	8
-|
-&nbsp;|**2015 90**
-ITC114| Database Management Systems  	      |HD|	8
-|
-&nbsp;|**2016 30**
-ITC322| Data Structures                      |HD|	8
-ITC303| Software Development Project 1&nbsp; |DI|	8
-|
-&nbsp;|**2016 60**
-ITC309| Software Development Project 2&nbsp; |HD|	8
-ITC363| Computer Graphics                    |HD|	8
+------|--------------------------------------|-------|--------------------
+&nbsp;|**Credit for previous work**          |       |
+ITC06C| 6 Unspec Info Tech Subjects          |TCR    |	48
+ITC104| Intro to Computer Science	           |TCR    |	8
+ITC105| ComInfoMan					                 |TCR    |	8
+MTH101&nbsp;| Computer Aided Mathematics 1   |TCR    |	8  
+      |                                      |       |
+&nbsp;|**2014 60**                           |       |
+ITC203| OO SAD				                       |DI     |	8
+MTH129| Discrete Mathematics		             |DI     |	8
+      |                                      |       |
+&nbsp;|**2015 30**                           |       |
+ITC204| Human Computer Interface	           |DI     |	8
+ITC206| Programming in Java 1		             |HD     |	8
+ITC262| Operating Systems		                 |DI     |	8
+ITC331| Ethics and Prof Prac		             |DI     |	8
+      |                                      |       |
+&nbsp;|**2015 60**                           |       | 
+ITC205| Prof Programming Practice	           |HD     |	8
+ITC212| Internet Technologies		             |HD     |	8
+ITC222| Programming in Java 2		             |HD     |	8
+ITC313| Database Management Systems	         |HD     |	8
+      |                                      |       |
+&nbsp;|**2015 90**                           |       |
+ITC114| Database Management Systems  	       |HD     |	8
+      |                                      |       |
+&nbsp;|**2016 30**                           |       |
+ITC322| Data Structures                      |HD     |	8
+ITC303| Software Development Project 1&nbsp; |DI     |	8
+      |                                      |       |
+&nbsp;|**2016 60**                           |       |
+ITC309| Software Development Project 2&nbsp; |HD     |	8
+ITC363| Computer Graphics                    |HD     |	8
 
 
 \pagebreak
