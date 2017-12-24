@@ -11,8 +11,27 @@ Personal Data
 Work Experience
 ===========
 
+### 2017 Software Engineer for Haultrax
+_Mining Consulting Services_  
+• Maintaining and updating legacy code (C#, WPF)
+• Implementing a new version of the Haultrax Productivity Solution (Python, SQLAlchemy)
+• Using GPS data to determine when a haul truck is loaded and emptied
+• Using these load and dump events to determine the effiecency of the haul trucks, and the number of cycles completed in a day
+• Web UI for displaying the resulting data (JavaScript, Node, Express, Polymer)
+• Deployment on GE's Predix PaaS and a Microsoft server on the Telstra Cloud Infrastructure
+
+### 2017 Programming Contractor for Bonsai Branding\
+_Branding and Design_
+• CRUD Website implementation
+• Using the Elixir Phoenix framework for the backend
+• Using ReactJS for the frontend
+• Continuing an existing project after handover from another programmer
+• CRUD application for managing catering and kitchen logistics for ingredients, recipes and products
+• Deployment on AWS
+• Continuous integration using Buildkite
+
 ### 2016-2017 Programming Contractor for Great Southern Fuels\
-_Fuel Distributor_  
+_Fuel Distributor_
 • [CRUD Website design and implementation](https://gsfs.azurewebsites.net/Account/Login) 
 • Using ASP.Net MVC and Entity Framework
 • Allows users to access their monthly Statements and Invoices
@@ -45,13 +64,6 @@ _Geospatial Solutions_
 • UI design
 • Research and implementation of geographic coordinate systems
 
-### 2011-2012 Business Improvement Assistant at Jason Windows \
-_Glass Manufacture_
-• Data analysis - tracking production and waste material
-• CAD drawings - design of an A frame for carrying glass on a trailer and floor plans
-• Stock take
-• Compiling task list through discussion with other employees
-
 Education & Training
 ===========
   
@@ -74,12 +86,12 @@ _See details at the end of document_
 Programming Skills
 ===========
 **Basic Knowledge**  
-C++, C, Python, Elixir, Ruby, ReactJS, SQL (Microsoft SQL, MySQL, SQLite), Git, Unit Testing, XML, TCP/IP, RS-232 Serial  
+C++, C, Elixir, Ruby, ReactJS, SQL (Microsoft SQL, MySQL, SQLite), Git, Unit Testing, XML, TCP/IP, RS-232 Serial  
 Mobile development (Android, Windows CE, PhoneGap/Cordova, React Native)
 
 **Intermediate Knowledge**  
-Java, C\#, JavaScript, HTML, CSS, vim, Eclipse, Visual Studio, Linux, Windows  
-Web Development (ASP.Net, Ruby on Rails, Phoenix)
+Java, C\#, JavaScript, Python, HTML, CSS, vim, Eclipse, Visual Studio, Linux, Windows  
+Web Development (ASP.Net, Ruby on Rails, Phoenix, ReactJS, Polymer)
 
 Other Technical Skills
 ===========
