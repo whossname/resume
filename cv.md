@@ -122,6 +122,12 @@ Technology, Programming, Science, Philosophy, History, Comedy, Science Fiction, 
 
 Referees
 ----------
+**Kyal Carruthers**  
+Kyal Carruthers  
+Great Southern Fuel Supplies  
+Ph: 04 3769 0062   
+E-mail: [kyal@gsfs.com.au](mailto:kyal@gsfs.com.au)
+
 **Diederick Naude**  
 Mechatronics Engineer  
 Applus RTD  
