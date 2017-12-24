@@ -1,18 +1,23 @@
-% Tyson Buzza
-
-Personal Data
+Tyson Buzza
 ===========
 
-**Place and Date of Birth:** Narrogin, Western Australia  | 23 January 1990  
-**Address:**   167 Fern Rd, Wilson, 6107, Perth, Western Australia  
-**Phone:**     [04 3951 1269](tel:0439511269)  
+Personal Data
+-------------
+
+**Place and Date of Birth:** Narrogin, Western Australia  | 23 January 1990
+
+**Address:**   167 Fern Rd, Wilson, 6107, Perth, Western Australia
+
+**Phone:**     [04 3951 1269](tel:0439511269)
+
 **Email:**    [tyson.buzza@gmail.com](mailto:tyson.buzza@gmail.com)
 
 Work Experience
-===========
+-------
 
 ### 2017 Software Engineer for Haultrax
-_Mining Consulting Services_  
+_Mining Consulting Services_
+
 • Maintaining and updating legacy code (C#, WPF)
 • Implementing a new version of the Haultrax Productivity Solution (Python, SQLAlchemy)
 • Using GPS data to determine when a haul truck is loaded and emptied
@@ -20,8 +25,9 @@ _Mining Consulting Services_
 • Web UI for displaying the resulting data (JavaScript, Node, Express, Polymer)
 • Deployment on GE's Predix PaaS and a Microsoft server on the Telstra Cloud Infrastructure
 
-### 2017 Programming Contractor for Bonsai Branding\
+### 2017 Programming Contractor for Bonsai Branding
 _Branding and Design_
+
 • CRUD Website implementation
 • Using the Elixir Phoenix framework for the backend
 • Using ReactJS for the frontend
@@ -30,8 +36,9 @@ _Branding and Design_
 • Deployment on AWS
 • Continuous integration using Buildkite
 
-### 2016-2017 Programming Contractor for Great Southern Fuels\
+### 2016-2017 Programming Contractor for Great Southern Fuels
 _Fuel Distributor_
+
 • [CRUD Website design and implementation](https://gsfs.azurewebsites.net/Account/Login) 
 • Using ASP.Net MVC and Entity Framework
 • Allows users to access their monthly Statements and Invoices
@@ -39,7 +46,7 @@ _Fuel Distributor_
 • Producing PDF files based on the extracted text 
 • CRUD application for managing fuel orders, jobs, the vehicle fleet, drivers, and customer tanks
 
-### 2014-2015 Mechatronics Assistant at Applus RTD \
+### 2014-2015 Mechatronics Assistant at Applus RTD
 _Non-Destructive Testing_
 
 • Soldering DB9 connectors
@@ -52,8 +59,9 @@ _Non-Destructive Testing_
 • Conducting training for Applus RTD personnel in the use of equipment
 • Completing maintenance reports
 
-### 2013 Programmer at Haefeli-Lysnar Surveying Equipment \
+### 2013 Programmer at Haefeli-Lysnar Surveying Equipment
 _Geospatial Solutions_
+
 • Receive NMEA strings from a GPS over a serial port using C\#
 • Writing end user manuals
 • Discussing project requirements with clients, identifying requirements, managing expectations, adjusting to changing project requirements and acting on feedback from deliverables
@@ -64,12 +72,20 @@ _Geospatial Solutions_
 • UI design
 • Research and implementation of geographic coordinate systems
 
+### 2011-2012 Business Improvement Assistant at Jason Windows
+_Glass Manufacture_
+
+• Data analysis - tracking production and waste material 
+• CAD drawings - design of an A frame for carrying glass on a trailer and floor plans 
+• Stock take
+• Compiling task list through discussion with other employees 
+
 Education & Training
-===========
-  
+------------
+
 Year  | Qualification / Institution 
 ------|--------------
-2016 &nbsp; | BCompSc Bachelor of Computer Science
+2016 &nbsp; | BCompSc (Distinction) Bachelor of Computer Science
 &nbsp; | Charles Sturt University, New South Wales  
 2013 | BEng (Hons) Bachelor of Mechatronic Engineering&nbsp; 
 &nbsp; | Curtin University, Western Australia  
@@ -81,20 +97,19 @@ Year  | Qualification / Institution
 &nbsp;
 _See details at the end of document_
 
-\pagebreak
-
 Programming Skills
-===========
-**Basic Knowledge**  
-C++, C, Elixir, Ruby, ReactJS, SQL (Microsoft SQL, MySQL, SQLite), Git, Unit Testing, XML, TCP/IP, RS-232 Serial  
-Mobile development (Android, Windows CE, PhoneGap/Cordova, React Native)
-
+-------------
 **Intermediate Knowledge**  
 Java, C\#, JavaScript, Python, HTML, CSS, vim, Eclipse, Visual Studio, Linux, Windows  
 Web Development (ASP.Net, Ruby on Rails, Phoenix, ReactJS, Polymer)
 
+**Basic Knowledge**  
+C++, C, Elixir, Ruby, ReactJS, SQL (Microsoft SQL, MySQL, SQLite), Git, Unit Testing, XML, TCP/IP, RS-232 Serial  
+Mobile development (Android, Windows CE, PhoneGap/Cordova, React Native)
+
+
 Other Technical Skills
-===========
+------------
 **Basic Knowledge**  
 Debugging electronic circuits, interfacing with cameras and GPS, GIS
 
@@ -102,11 +117,11 @@ Debugging electronic circuits, interfacing with cameras and GPS, GIS
 Faulhaber motor control
 
 Interests and Activities
-===========
+-------------
 Technology, Programming, Science, Philosophy, History, Comedy, Science Fiction, Fantasy
 
 Referees
-===========
+----------
 **Diederick Naude**  
 Mechatronics Engineer  
 Applus RTD  
@@ -119,16 +134,9 @@ Haefeli-Lysnar Surveying Equipment
 Ph: 04 3321 0107  
 E-mail: [jered.masters@outlook.com](mailto:jered.masters@outlook.com)
 
-**Peter den Boer**  
-Business Improvement Director  
-Jason Windows  
-Ph: 93 513 400  
-E-mail [Peter.denBoer@jasonwindows.com.au](mailto:Peter.denBoer@jasonwindows.com.au)
 
-
-\pagebreak
-
-# Bachelor of Computer Science \
+Bachelor of Computer Science
+----------------------------
 _Charles Sturt University_
 
 _Degree awarded on 9-Dec-2016 with Distinction (GPA 6.6)_
@@ -172,9 +180,8 @@ ITC309| Software Development Project 2&nbsp; |HD     |	8
 ITC363| Computer Graphics                    |HD     |	8
 
 
-\pagebreak
-
-# Bachelor of Mechatronic Engineering \
+Bachelor of Mechatronic Engineering
+-------------------------------------
 _Curtin University_
 _Course completed on 20-Dec-2013 with Lower Second Class Honours._
 
@@ -241,7 +248,8 @@ Code   |Title                          |Credits&nbsp;|Grade
 
 &nbsp;
 
-# Exchange Program \
+Exchange Program
+----------------
 _Technical University of Munich_
 &nbsp;
 
