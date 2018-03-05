@@ -6,29 +6,29 @@ Personal Data
 
 **Place and Date of Birth:** Narrogin, Western Australia  | 23 January 1990
 
-**Address:**   167 Fern Rd, Wilson, 6107, Perth, Western Australia
-
-**Phone:**     [04 3951 1269](tel:0439511269)
+**Address:**   Wilson, Perth, Western Australia
 
 **Email:**    [tyson.buzza@gmail.com](mailto:tyson.buzza@gmail.com)
+
 
 Work Experience
 -------
 
-### 2017 Software Engineer for Haultrax
+### 2017-2018 Software Engineer for Haultrax
 _Mining Consulting Services_
 
-• Maintaining and updating legacy code (C#, WPF)
+• Implementing software best practices such as version control, coding standards, unit testing and refactoring
+• Web UI for displaying the resulting data (ECMAScript 2015, Node, Express, Polymer)
 • Implementing a new version of the Haultrax Productivity Solution (Python, SQLAlchemy)
+• Maintaining, refactoring and updating legacy code (C#, WPF)
 • Using GPS data to determine when a haul truck is loaded and emptied
 • Using these load and dump events to determine the effiecency of the haul trucks, and the number of cycles completed in a day
-• Web UI for displaying the resulting data (JavaScript, Node, Express, Polymer)
 • Deployment on GE's Predix PaaS and a Microsoft server on the Telstra Cloud Infrastructure
 
 ### 2017 Programming Contractor for Bonsai Branding
 _Branding and Design_
 
-• CRUD Website implementation
+• CRUD website implementation
 • Using the Elixir Phoenix framework for the backend
 • Using ReactJS for the frontend
 • Continuing an existing project after handover from another programmer
@@ -49,10 +49,10 @@ _Fuel Distributor_
 ### 2014-2015 Mechatronics Assistant at Applus RTD
 _Non-Destructive Testing_
 
-• Soldering DB9 connectors
-• Using RS232 to communicate with motor controllers and a laser range finder
 • Motor control software design and implementation
 • System monitoring software, design and implementation
+• Using RS232 to communicate with motor controllers and a laser range finder
+• Soldering DB9 connectors
 • Electrical design, drawing schematics and assembly
 • Providing maintenance engineering support to the project/site to maintain and improve plant operations and profitability as directed by the client in accordance with the client site requirements
 • Performing scheduled maintenance inspections and repairs
@@ -62,15 +62,15 @@ _Non-Destructive Testing_
 ### 2013 Programmer at Haefeli-Lysnar Surveying Equipment
 _Geospatial Solutions_
 
+• Wrote a GPS positioning system for drill rigs
+• Developing mobile phone applications (Windows, Android, IPhone)
+• Helped develop a total station program for position piles
+• Research and implementation of geographic coordinate system conversion
+• Testing/debugging
 • Receive NMEA strings from a GPS over a serial port using C\#
 • Writing end user manuals
 • Discussing project requirements with clients, identifying requirements, managing expectations, adjusting to changing project requirements and acting on feedback from deliverables
-• Developing mobile phone applications (Windows, Android, IPhone)
-• Wrote a GPS positioning system for drill rigs
-• Helped develop a total station program for position piles
-• Testing/debugging
 • UI design
-• Research and implementation of geographic coordinate systems
 
 ### 2011-2012 Business Improvement Assistant at Jason Windows
 _Glass Manufacture_
@@ -100,25 +100,32 @@ _See details at the end of document_
 Programming Skills
 -------------
 **Intermediate Knowledge**  
-Java, C\#, JavaScript, Python, HTML, CSS, vim, Eclipse, Visual Studio, Linux, Windows  
-Web Development (ASP.Net, Ruby on Rails, Phoenix, ReactJS, Polymer)
+Languages: JavaScript (ES6), Python, C\#, Java, HTML, CSS, Elixir
+
+SQL: Microsoft SQL, MySQL, SQLite
+
+Tooling: Git, vim, Eclipse, Visual Studio, Linux, Windows
+
+Web Frameworks: ReactJS, Polymer, ASP.Net, Phoenix, Ruby on Rails
 
 **Basic Knowledge**  
-C++, C, Elixir, Ruby, ReactJS, SQL (Microsoft SQL, MySQL, SQLite), Git, Unit Testing, XML, TCP/IP, RS-232 Serial  
-Mobile development (Android, Windows CE, PhoneGap/Cordova, React Native)
+Languages: Elm, Go, Ruby, C++, C
+
+Mobile development: React Native, Android, PhoneGap/Cordova, Windows CE
 
 
 Other Technical Skills
 ------------
-**Basic Knowledge**  
-Debugging electronic circuits, interfacing with cameras and GPS, GIS
 
 **Intermediate Knowledge**  
 Faulhaber motor control
 
+**Basic Knowledge**  
+Debugging electronic circuits, interfacing with cameras and GPS, GIS
+
 Interests and Activities
 -------------
-Technology, Programming, Science, Philosophy, History, Comedy, Science Fiction, Fantasy
+Elixir, Programming Languages, Podcasts, Comedy, Anime, Manga, Nintendo Switch
 
 Referees
 ----------
@@ -128,17 +135,17 @@ Great Southern Fuel Supplies
 Ph: 04 3769 0062   
 E-mail: [kyal@gsfs.com.au](mailto:kyal@gsfs.com.au)
 
-**Diederick Naude**  
-Mechatronics Engineer  
-Applus RTD  
-Ph: 04 1003 5574  
-E-mail: [Diederick.Naude@applusrtd.com](mailto:Diederick.Naude@applusrtd.com)
-
 **Jered Masters**  
 Lead programmer  
 Haefeli-Lysnar Surveying Equipment  
 Ph: 04 3321 0107  
 E-mail: [jered.masters@outlook.com](mailto:jered.masters@outlook.com)
+
+**Diederick Naude**  
+Mechatronics Engineer  
+Applus RTD  
+Ph: 04 1003 5574  
+E-mail: [Diederick.Naude@applusrtd.com](mailto:Diederick.Naude@applusrtd.com)
 
 
 Bachelor of Computer Science
