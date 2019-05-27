@@ -13,41 +13,47 @@ Personal Data
 **Email:**    [tyson.buzza@gmail.com](mailto:tyson.buzza@gmail.com)
 
 Work Experience
--------
+---------------
 
-### 2017 Software Engineer for Haultrax
-_Mining Consulting Services_
+### Haultrax - Mining Consulting Services
+#### 2018-2019 Senior Software Engineer
+
+• *FleetOps* Rewrite of the previous Web UI (Vue, Phoenix)
+• *FleetControl* an application that allows dispatchers to allocate haul trucks to load and dump locations and haul truck operators to acknowledge the new allocation (Vue, Phoenix)
+• *Driver Tree* a dynamic value driver tree that allows users to build the trees, input actual and target values or use automatically updating values based on a programmed
+• *Cycle Time Efficency* tool for identifying problems in haul cycles by using GPS data to calculate variance in haul truck speed
+
+#### 2017-2018 Software Engineer
 
 • Maintaining and updating legacy code (C#, WPF)
-• Implementing a new version of the Haultrax Productivity Solution (Python, SQLAlchemy)
+• Implementing a new version of the Haultrax Productivity Solution (Python)
 • Using GPS data to determine when a haul truck is loaded and emptied
-• Using these load and dump events to determine the effiecency of the haul trucks, and the number of cycles completed in a day
-• Web UI for displaying the resulting data (JavaScript, Node, Express, Polymer)
+• Using these load and dump events to determine the efficiency of the haul trucks, and the number of cycles completed in a day
+• Web UI for displaying the resulting data (Polymer, Node/Express)
 • Deployment on GE's Predix PaaS and a Microsoft server on the Telstra Cloud Infrastructure
 
-### 2017 Programming Contractor for Bonsai Branding
-_Branding and Design_
+### Bonsai Branding - Branding and Design
+#### 2017 Programming Contractor 
 
 • CRUD Website implementation
-• Using the Elixir Phoenix framework for the backend
-• Using ReactJS for the frontend
+• Elixir Phoenix web framework for the backend
+• ReactJS for the frontend
 • Continuing an existing project after handover from another programmer
 • CRUD application for managing catering and kitchen logistics for ingredients, recipes and products
 • Deployment on AWS
-• Continuous integration using Buildkite
+• Continuous Integration and Continuous Deployment using Buildkite
 
-### 2016-2017 Programming Contractor for Great Southern Fuels
-_Fuel Distributor_
+### Great Southern Fuels - Fuel Distributor
+#### 2016-2017 Programming Contractor
 
 • [CRUD Website design and implementation](https://gsfs.azurewebsites.net/Account/Login) 
-• Using ASP.Net MVC and Entity Framework
 • Allows users to access their monthly Statements and Invoices
 • Splitting large text files into separate customer Statements/Invoices
 • Producing PDF files based on the extracted text 
 • CRUD application for managing fuel orders, jobs, the vehicle fleet, drivers, and customer tanks
 
-### 2014-2015 Mechatronics Assistant at Applus RTD
-_Non-Destructive Testing_
+### Applus RTD - Non-Destructive Testing
+#### 2014-2015 Mechatronics Assistant
 
 • Soldering DB9 connectors
 • Using RS232 to communicate with motor controllers and a laser range finder
@@ -59,8 +65,8 @@ _Non-Destructive Testing_
 • Conducting training for Applus RTD personnel in the use of equipment
 • Completing maintenance reports
 
-### 2013 Programmer at Haefeli-Lysnar Surveying Equipment
-_Geospatial Solutions_
+### Haefeli-Lysnar Surveying Equipment - Geospatial Solutions
+#### 2013 Programmer
 
 • Receive NMEA strings from a GPS over a serial port using C\#
 • Writing end user manuals
@@ -72,13 +78,13 @@ _Geospatial Solutions_
 • UI design
 • Research and implementation of geographic coordinate systems
 
-### 2011-2012 Business Improvement Assistant at Jason Windows
-_Glass Manufacture_
+Open Source
+-----------
 
-• Data analysis - tracking production and waste material 
-• CAD drawings - design of an A frame for carrying glass on a trailer and floor plans 
-• Stock take
-• Compiling task list through discussion with other employees 
+### Azure Active Directory OpenID
+
+Elixir client for Azure Active Directory using OpenID.
+See the [documentation](https://hexdocs.pm/azure_ad_openid/readme.html).
 
 Education & Training
 ------------
@@ -98,26 +104,19 @@ Year  | Qualification / Institution
 _See details at the end of document_
 
 Programming Skills
--------------
-**Intermediate Knowledge**  
-Java, C\#, JavaScript, Python, HTML, CSS, vim, Eclipse, Visual Studio, Linux, Windows  
-Web Development (ASP.Net, Ruby on Rails, Phoenix, ReactJS, Polymer)
+------------------
 
-**Basic Knowledge**  
-C++, C, Elixir, Ruby, ReactJS, SQL (Microsoft SQL, MySQL, SQLite), Git, Unit Testing, XML, TCP/IP, RS-232 Serial  
-Mobile development (Android, Windows CE, PhoneGap/Cordova, React Native)
+**Languages**
+JavaScript, Elixir, Java, C\#, Python, HTML, CSS, SQL
 
+**Frameworks**
+Phoenix, Vue.js, React, Polymer, ASP.&#8203;NET MVC, WPF
 
-Other Technical Skills
-------------
-**Basic Knowledge**  
-Debugging electronic circuits, interfacing with cameras and GPS, GIS
-
-**Intermediate Knowledge**  
-Faulhaber motor control
+**Libraries**
+Ecto, SQLAlchemy, Entity Framework
 
 Interests and Activities
--------------
+------------------------
 Technology, Programming, Science, Philosophy, History, Comedy, Science Fiction, Fantasy
 
 Referees
@@ -140,9 +139,9 @@ Haefeli-Lysnar Surveying Equipment
 Ph: 04 3321 0107  
 E-mail: [jered.masters@outlook.com](mailto:jered.masters@outlook.com)
 
-
 Bachelor of Computer Science
 ----------------------------
+
 _Charles Sturt University_
 
 _Degree awarded on 9-Dec-2016 with Distinction (GPA 6.6)_
