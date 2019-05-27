@@ -6,11 +6,10 @@ Personal Data
 
 **Place and Date of Birth:** Narrogin, Western Australia  | 23 January 1990
 
-**Address:**   167 Fern Rd, Wilson, 6107, Perth, Western Australia
-
-**Phone:**     [04 3951 1269](tel:0439511269)
+**Address:**   Wilson, Perth, Western Australia
 
 **Email:**    [tyson.buzza@gmail.com](mailto:tyson.buzza@gmail.com)
+
 
 Work Experience
 ---------------
@@ -55,10 +54,10 @@ Work Experience
 ### Applus RTD - Non-Destructive Testing
 #### 2014-2015 Mechatronics Assistant
 
-• Soldering DB9 connectors
-• Using RS232 to communicate with motor controllers and a laser range finder
 • Motor control software design and implementation
 • System monitoring software, design and implementation
+• Using RS232 to communicate with motor controllers and a laser range finder
+• Soldering DB9 connectors
 • Electrical design, drawing schematics and assembly
 • Providing maintenance engineering support to the project/site to maintain and improve plant operations and profitability as directed by the client in accordance with the client site requirements
 • Performing scheduled maintenance inspections and repairs
@@ -68,15 +67,15 @@ Work Experience
 ### Haefeli-Lysnar Surveying Equipment - Geospatial Solutions
 #### 2013 Programmer
 
+• Wrote a GPS positioning system for drill rigs
+• Developing mobile phone applications (Windows, Android, IPhone)
+• Helped develop a total station program for position piles
+• Research and implementation of geographic coordinate system conversion
+• Testing/debugging
 • Receive NMEA strings from a GPS over a serial port using C\#
 • Writing end user manuals
 • Discussing project requirements with clients, identifying requirements, managing expectations, adjusting to changing project requirements and acting on feedback from deliverables
-• Developing mobile phone applications (Windows, Android, IPhone)
-• Wrote a GPS positioning system for drill rigs
-• Helped develop a total station program for position piles
-• Testing/debugging
 • UI design
-• Research and implementation of geographic coordinate systems
 
 Open Source
 -----------
@@ -127,17 +126,18 @@ Great Southern Fuel Supplies
 Ph: 04 3769 0062   
 E-mail: [kyal@gsfs.com.au](mailto:kyal@gsfs.com.au)
 
+**Jered Masters**  
+Lead programmer  
+Haefeli-Lysnar Surveying Equipment  
+Ph: 04 3321 0107  
+E-mail: [jered.masters@outlook.com](mailto:jered.masters@outlook.com)
+
 **Diederick Naude**  
 Mechatronics Engineer  
 Applus RTD  
 Ph: 04 1003 5574  
 E-mail: [Diederick.Naude@applusrtd.com](mailto:Diederick.Naude@applusrtd.com)
 
-**Jered Masters**  
-Lead programmer  
-Haefeli-Lysnar Surveying Equipment  
-Ph: 04 3321 0107  
-E-mail: [jered.masters@outlook.com](mailto:jered.masters@outlook.com)
 
 Bachelor of Computer Science
 ----------------------------
