@@ -6,76 +6,73 @@ Personal Data
 
 **Place and Date of Birth:** Narrogin, Western Australia  | 23 January 1990
 
-**Address:**   Wilson, Perth, Western Australia
+**Address:**   Innaloo, Perth, Western Australia
 
 **Email:**    [tyson.buzza@gmail.com](mailto:tyson.buzza@gmail.com)
-
 
 Work Experience
 ---------------
 
 ### Haultrax - Mining Consulting Services
+
 #### 2018-2019 Senior Software Engineer
 
-• *FleetOps* Rewrite of the previous Web UI (Vue, Phoenix)
-• *FleetControl* an application that allows dispatchers to allocate haul trucks to load and dump locations and haul truck operators to acknowledge the new allocation (Vue, Phoenix)
-• *Driver Tree* a dynamic value driver tree that allows users to build the trees, input actual and target values or use automatically updating values based on a programmed
-• *Cycle Time Efficency* tool for identifying problems in haul cycles by using GPS data to calculate variance in haul truck speed
+* *FleetOps* Rewrite of the previous Web UI (Vue, Phoenix)
+* *FleetControl* an application that allows dispatchers to allocate haul trucks to load and dump locations and haul truck operators to acknowledge the new allocation (Vue, Phoenix)
+* *Driver Tree* a dynamic value driver tree that allows users to build the trees, input actual and target values or use automatically updating values based on a programmed (Vue, Phoenix)
+* *Cycle Time Efficency* tool for identifying problems in haul cycles by using GPS data to calculate variance in haul truck speed (Vue, Phoenix)
 
 #### 2017-2018 Software Engineer
 
-• Maintaining and updating legacy code (C#, WPF)
-• Implementing a new version of the Haultrax Productivity Solution (Python)
-• Using GPS data to determine when a haul truck is loaded and emptied
-• Using these load and dump events to determine the efficiency of the haul trucks, and the number of cycles completed in a day
-• Web UI for displaying the resulting data (Polymer, Node/Express)
-• Deployment on GE's Predix PaaS and a Microsoft server on the Telstra Cloud Infrastructure
+* Maintaining and updating legacy code (C#, WPF)
+* Implementing a new version of the Haultrax Productivity Solution (Python)
+* Using GPS data to determine when a haul truck is loaded and emptied
+* Using these load and dump events to determine the efficiency of the haul trucks, and the number of cycles completed in a day
+* Web UI for displaying the resulting data (Polymer, Node/Express)
+* Deployment on GE's Predix PaaS and a Microsoft server on the Telstra Cloud Infrastructure
 
 ### Bonsai Branding - Branding and Design
 #### 2017 Programming Contractor 
 
-• CRUD Website implementation
-• Elixir Phoenix web framework for the backend
-• ReactJS for the frontend
-• Continuing an existing project after handover from another programmer
-• CRUD application for managing catering and kitchen logistics for ingredients, recipes and products
-• Deployment on AWS
-• Continuous Integration and Continuous Deployment using Buildkite
+* CRUD Website implementation
+* Elixir Phoenix web framework for the backend
+* ReactJS for the frontend
+* Continuing an existing project after handover from another programmer
+* CRUD application for managing catering and kitchen logistics for ingredients, recipes and products
+* Deployment on AWS
+* Continuous Integration and Continuous Deployment using Buildkite
 
 ### Great Southern Fuels - Fuel Distributor
 #### 2016-2017 Programming Contractor
 
-• [CRUD Website design and implementation](https://gsfs.azurewebsites.net/Account/Login) 
-• Allows users to access their monthly Statements and Invoices
-• Splitting large text files into separate customer Statements/Invoices
-• Producing PDF files based on the extracted text 
-• CRUD application for managing fuel orders, jobs, the vehicle fleet, drivers, and customer tanks
+* [CRUD Website design and implementation](https://gsfs.azurewebsites.net/Account/Login) 
+* Allows users to access their monthly Statements and Invoices
+* Splitting large text files into separate customer Statements/Invoices
+* Producing PDF files based on the extracted text
+* CRUD application for managing fuel orders, jobs, the vehicle fleet, drivers, and customer tanks
 
 ### Applus RTD - Non-Destructive Testing
 #### 2014-2015 Mechatronics Assistant
 
-• Motor control software design and implementation
-• System monitoring software, design and implementation
-• Using RS232 to communicate with motor controllers and a laser range finder
-• Soldering DB9 connectors
-• Electrical design, drawing schematics and assembly
-• Providing maintenance engineering support to the project/site to maintain and improve plant operations and profitability as directed by the client in accordance with the client site requirements
-• Performing scheduled maintenance inspections and repairs
-• Conducting training for Applus RTD personnel in the use of equipment
-• Completing maintenance reports
+* Motor control software design and implementation
+* System monitoring software, design and implementation
+* Using RS232 to communicate with motor controllers and a laser range finder
+* Soldering DB9 connectors
+* Electrical design, drawing schematics and assembly
+* Providing maintenance engineering support to the project/site to maintain and improve plant operations and profitability as directed by the client in accordance with the client site requirements
+* Performing scheduled maintenance inspections and repairs
+* Conducting training for Applus RTD personnel in the use of equipment
+* Completing maintenance reports
 
 ### Haefeli-Lysnar Surveying Equipment - Geospatial Solutions
-#### 2013 Programmer
+#### 2013 Junior Programmer
 
-• Wrote a GPS positioning system for drill rigs
-• Developing mobile phone applications (Windows, Android, IPhone)
-• Helped develop a total station program for position piles
-• Research and implementation of geographic coordinate system conversion
-• Testing/debugging
-• Receive NMEA strings from a GPS over a serial port using C\#
-• Writing end user manuals
-• Discussing project requirements with clients, identifying requirements, managing expectations, adjusting to changing project requirements and acting on feedback from deliverables
-• UI design
+* Wrote a GPS positioning system for drill rigs
+* Developing mobile phone applications (Windows, Android, IPhone)
+* Helped develop a total station program for position piles
+* Research and implementation of geographic coordinate system conversion
+* Receive NMEA strings from a GPS over a serial port using C\#
+* Discussing project requirements with clients, identifying requirements, managing expectations, adjusting to changing project requirements and acting on feedback from deliverables
 
 Open Source
 -----------
@@ -86,7 +83,7 @@ Elixir client for Azure Active Directory using OpenID.
 See the [documentation](https://hexdocs.pm/azure_ad_openid/readme.html).
 
 Education & Training
-------------
+--------------------
 
 Year  | Qualification / Institution 
 ------|--------------
@@ -113,6 +110,9 @@ Phoenix, Vue.js, React, Polymer, ASP.&#8203;NET MVC, WPF
 
 **Libraries**
 Ecto, SQLAlchemy, Entity Framework
+
+**Deployment**
+Azure, AWS, TravisCI, Buildkite, Docker
 
 Interests and Activities
 ------------------------
