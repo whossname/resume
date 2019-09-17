@@ -10,6 +10,24 @@ Personal Data
 
 **Email:**    [tyson.buzza@gmail.com](mailto:tyson.buzza@gmail.com)
 
+Open Source
+-----------
+
+### Azure Active Directory OpenID
+
+Elixir client for Azure Active Directory using OpenID.
+See the [documentation](https://hexdocs.pm/azure_ad_openid/readme.html).
+
+Updating the existing [mssql_ecto](https://github.com/findmypast-oss/mssql_ecto) repository to Ecto 3. See the [pull request](https://github.com/findmypast-oss/mssql_ecto/pull/44).
+
+Other contributions:
+
+* [eastar](https://github.com/wkhere/eastar/pull/5)
+* [topo](https://github.com/pkinney/topo/pull/11)
+* [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker/pull/547)
+
+### Azure Active Directory OpenID
+
 Work Experience
 ---------------
 
@@ -18,9 +36,10 @@ Work Experience
 #### 2018-2019 Senior Software Engineer
 
 * *FleetOps* Rewrite of the previous Web UI (Vue, Phoenix)
-* *FleetControl* an application that allows dispatchers to allocate haul trucks to load and dump locations and haul truck operators to acknowledge the new allocation (Vue, Phoenix)
+* *FleetControl* an application that allows dispatchers to allocate haul trucks to load and dump locations. Also allows haul truck operators to acknowledge the new allocation (Vue, Phoenix)
 * *Driver Tree* a dynamic value driver tree that allows users to build the trees, input actual and target values or use automatically updating values based on a programmed (Vue, Phoenix)
 * *Cycle Time Efficency* tool for identifying problems in haul cycles by using GPS data to calculate variance in haul truck speed (Vue, Phoenix)
+* Deployment with Docker, Azure, and Kubernetes
 
 #### 2017-2018 Software Engineer
 
@@ -34,11 +53,10 @@ Work Experience
 ### Bonsai Branding - Branding and Design
 #### 2017 Programming Contractor 
 
-* CRUD Website implementation
-* Elixir Phoenix web framework for the backend
-* ReactJS for the frontend
-* Continuing an existing project after handover from another programmer
 * CRUD application for managing catering and kitchen logistics for ingredients, recipes and products
+* Phoenix backend
+* React frontend
+* Continuing an existing project after handover from another programmer
 * Deployment on AWS
 * Continuous Integration and Continuous Deployment using Buildkite
 
@@ -67,20 +85,12 @@ Work Experience
 ### Haefeli-Lysnar Surveying Equipment - Geospatial Solutions
 #### 2013 Junior Programmer
 
-* Wrote a GPS positioning system for drill rigs
+* Wrote a program for positioning drill rigs using GPS
 * Developing mobile phone applications (Windows, Android, IPhone)
-* Helped develop a total station program for position piles
-* Research and implementation of geographic coordinate system conversion
+* Helped develop a total station program for positioning piles
+* Research and development of coordinate system conversion libraries
 * Receive NMEA strings from a GPS over a serial port using C\#
 * Discussing project requirements with clients, identifying requirements, managing expectations, adjusting to changing project requirements and acting on feedback from deliverables
-
-Open Source
------------
-
-### Azure Active Directory OpenID
-
-Elixir client for Azure Active Directory using OpenID.
-See the [documentation](https://hexdocs.pm/azure_ad_openid/readme.html).
 
 Education & Training
 --------------------
@@ -108,15 +118,8 @@ JavaScript, Elixir, Java, C\#, Python, HTML, CSS, SQL
 **Frameworks**
 Phoenix, Vue.js, React, Polymer, ASP.&#8203;NET MVC, WPF
 
-**Libraries**
-Ecto, SQLAlchemy, Entity Framework
-
 **Deployment**
-Azure, AWS, TravisCI, Buildkite, Docker
-
-Interests and Activities
-------------------------
-Technology, Programming, Science, Philosophy, History, Comedy, Science Fiction, Fantasy
+Kubernetes, Docker, Azure, AWS, TravisCI, Buildkite
 
 Referees
 ----------
@@ -131,13 +134,6 @@ Lead programmer
 Haefeli-Lysnar Surveying Equipment  
 Ph: 04 3321 0107  
 E-mail: [jered.masters@outlook.com](mailto:jered.masters@outlook.com)
-
-**Diederick Naude**  
-Mechatronics Engineer  
-Applus RTD  
-Ph: 04 1003 5574  
-E-mail: [Diederick.Naude@applusrtd.com](mailto:Diederick.Naude@applusrtd.com)
-
 
 Bachelor of Computer Science
 ----------------------------
