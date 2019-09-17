@@ -18,15 +18,16 @@ Open Source
 Elixir client for Azure Active Directory using OpenID.
 See the [documentation](https://hexdocs.pm/azure_ad_openid/readme.html).
 
+### Mssql Ecto
+
 Updating the existing [mssql_ecto](https://github.com/findmypast-oss/mssql_ecto) repository to Ecto 3. See the [pull request](https://github.com/findmypast-oss/mssql_ecto/pull/44).
 
-Other contributions:
+### Other contributions
 
 * [eastar](https://github.com/wkhere/eastar/pull/5)
 * [topo](https://github.com/pkinney/topo/pull/11)
 * [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker/pull/547)
 
-### Azure Active Directory OpenID
 
 Work Experience
 ---------------
