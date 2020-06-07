@@ -1,8 +1,6 @@
-Tyson Buzza
-===========
+# Tyson Buzza
 
-Personal Data
--------------
+## Personal Data
 
 **Place and Date of Birth:** Narrogin, Western Australia  | 23 January 1990
 
@@ -10,17 +8,14 @@ Personal Data
 
 **Email:**    [tyson.buzza@gmail.com](mailto:tyson.buzza@gmail.com)
 
-Open Source
------------
+## Projects
 
-### Azure Active Directory OpenID
-
-Elixir client for Azure Active Directory using OpenID.
-See the [documentation](https://hexdocs.pm/azure_ad_openid/readme.html).
-
-### Mssql Ecto
-
-Updating the existing [mssql_ecto](https://github.com/findmypast-oss/mssql_ecto) repository to Ecto 3. See the [pull request](https://github.com/findmypast-oss/mssql_ecto/pull/44).
+* *basic-db* A very simple database implemented in Rust for educational purposes [git](https://github.com/whossname/basic-db)
+* *stream_stats* Concurrent calculation of count, mean and standard deviation [git](https://github.com/whossname/stream_stats)
+* *utm_ex* Convert coordinates between WGS84 and UTM in Elixir [docs](https://hexdocs.pm/utm)
+* *simple_rabbitmq_consumer* Simple Consumer for RabbitMQ messages [git](https://github.com/whossname/simple_rabbitmq_consumer) [docs](https://hexdocs.pm/simple_rabbitmq_consumer/readme.html)
+* *azure_ad_openid* Elixir client for Azure Active Directory using OpenID [docs](https://hexdocs.pm/azure_ad_openid/readme.html)
+* *mssql_ecto* Updating the existing [mssql_ecto](https://github.com/findmypast-oss/mssql_ecto) repository to Ecto 3 [pull request](https://github.com/findmypast-oss/mssql_ecto/pull/44)
 
 ### Other contributions
 
@@ -28,13 +23,11 @@ Updating the existing [mssql_ecto](https://github.com/findmypast-oss/mssql_ecto)
 * [topo](https://github.com/pkinney/topo/pull/11)
 * [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker/pull/547)
 
-
-Work Experience
----------------
+## Work Experience
 
 ### Haultrax - Mining Consulting Services
 
-#### 2018-2019 Senior Software Engineer
+#### 2018-2020 Senior Software Engineer
 
 * *FleetOps* Rewrite of the previous Web UI (Vue, Phoenix)
 * *FleetControl* an application that allows dispatchers to allocate haul trucks to load and dump locations. Also allows haul truck operators to acknowledge the new allocation (Vue, Phoenix)
@@ -52,7 +45,8 @@ Work Experience
 * Deployment on GE's Predix PaaS and a Microsoft server on the Telstra Cloud Infrastructure
 
 ### Bonsai Branding - Branding and Design
-#### 2017 Programming Contractor 
+
+#### 2017 Programming Contractor
 
 * CRUD application for managing catering and kitchen logistics for ingredients, recipes and products
 * Phoenix backend
@@ -62,6 +56,7 @@ Work Experience
 * Continuous Integration and Continuous Deployment using Buildkite
 
 ### Great Southern Fuels - Fuel Distributor
+
 #### 2016-2017 Programming Contractor
 
 * [CRUD Website design and implementation](https://gsfs.azurewebsites.net/Account/Login) 
@@ -71,6 +66,7 @@ Work Experience
 * CRUD application for managing fuel orders, jobs, the vehicle fleet, drivers, and customer tanks
 
 ### Applus RTD - Non-Destructive Testing
+
 #### 2014-2015 Mechatronics Assistant
 
 * Motor control software design and implementation
@@ -84,6 +80,7 @@ Work Experience
 * Completing maintenance reports
 
 ### Haefeli-Lysnar Surveying Equipment - Geospatial Solutions
+
 #### 2013 Junior Programmer
 
 * Wrote a program for positioning drill rigs using GPS
@@ -93,16 +90,15 @@ Work Experience
 * Receive NMEA strings from a GPS over a serial port using C\#
 * Discussing project requirements with clients, identifying requirements, managing expectations, adjusting to changing project requirements and acting on feedback from deliverables
 
-Education & Training
---------------------
+## Education & Training
 
-Year  | Qualification / Institution 
+Year  | Qualification / Institution
 ------|--------------
 2016 &nbsp; | BCompSc (Distinction) Bachelor of Computer Science
 &nbsp; | Charles Sturt University, New South Wales  
-2013 | BEng (Hons) Bachelor of Mechatronic Engineering&nbsp; 
+2013 | BEng (Hons) Bachelor of Mechatronic Engineering&nbsp;
 &nbsp; | Curtin University, Western Australia  
-2012 | Exchange Semester 
+2012 | Exchange Semester
 &nbsp; |  Technical University of Munich, Germany  
 2007 | Australian Drivers Licence, Class C  
 &nbsp; | Department of Transport, Western Australia
@@ -110,11 +106,10 @@ Year  | Qualification / Institution
 &nbsp;
 _See details at the end of document_
 
-Programming Skills
-------------------
+## Programming Skills
 
 **Languages**
-JavaScript, Elixir, Java, C\#, Python, HTML, CSS, SQL
+Elixir, JavaScript, Java, C\#, Rust, Python, HTML, CSS, SQL
 
 **Frameworks**
 Phoenix, Vue.js, React, Polymer, ASP.&#8203;NET MVC, WPF
@@ -122,12 +117,12 @@ Phoenix, Vue.js, React, Polymer, ASP.&#8203;NET MVC, WPF
 **Deployment**
 Kubernetes, Docker, Azure, AWS, TravisCI, Buildkite
 
-Referees
-----------
+## Referees
+
 **Kyal Carruthers**  
 Kyal Carruthers  
 Great Southern Fuel Supplies  
-Ph: 04 3769 0062   
+Ph: 04 3769 0062
 E-mail: [kyal@gsfs.com.au](mailto:kyal@gsfs.com.au)
 
 **Jered Masters**  
@@ -136,8 +131,7 @@ Haefeli-Lysnar Surveying Equipment
 Ph: 04 3321 0107  
 E-mail: [jered.masters@outlook.com](mailto:jered.masters@outlook.com)
 
-Bachelor of Computer Science
-----------------------------
+## Bachelor of Computer Science
 
 _Charles Sturt University_
 
@@ -182,8 +176,8 @@ ITC309| Software Development Project 2&nbsp; |HD     |	8
 ITC363| Computer Graphics                    |HD     |	8
 
 
-Bachelor of Mechatronic Engineering
--------------------------------------
+## Bachelor of Mechatronic Engineering
+
 _Curtin University_
 _Course completed on 20-Dec-2013 with Lower Second Class Honours._
 
@@ -250,8 +244,8 @@ Code   |Title                          |Credits&nbsp;|Grade
 
 &nbsp;
 
-Exchange Program
-----------------
+## Exchange Program
+
 _Technical University of Munich_
 &nbsp;
 
