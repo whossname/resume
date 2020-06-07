@@ -10,12 +10,12 @@
 
 ## Projects
 
-* *basic-db* A very simple database implemented in Rust for educational purposes [git](https://github.com/whossname/basic-db)
-* *stream_stats* Concurrent calculation of count, mean and standard deviation [git](https://github.com/whossname/stream_stats)
-* *utm_ex* Convert coordinates between WGS84 and UTM in Elixir [docs](https://hexdocs.pm/utm)
-* *simple_rabbitmq_consumer* Simple Consumer for RabbitMQ messages [git](https://github.com/whossname/simple_rabbitmq_consumer) [docs](https://hexdocs.pm/simple_rabbitmq_consumer/readme.html)
-* *azure_ad_openid* Elixir client for Azure Active Directory using OpenID [docs](https://hexdocs.pm/azure_ad_openid/readme.html)
-* *mssql_ecto* Updating the existing [mssql_ecto](https://github.com/findmypast-oss/mssql_ecto) repository to Ecto 3 [pull request](https://github.com/findmypast-oss/mssql_ecto/pull/44)
+* *basic-db* - A very simple database implemented in Rust for educational purposes [git](https://github.com/whossname/basic-db)
+* *stream_stats* - Concurrent calculation of count, mean and standard deviation [git](https://github.com/whossname/stream_stats)
+* *utm_ex* - Convert coordinates between WGS84 and UTM in Elixir [docs](https://hexdocs.pm/utm)
+* *simple_rabbitmq_consumer* - Simple Consumer for RabbitMQ messages [git](https://github.com/whossname/simple_rabbitmq_consumer) [docs](https://hexdocs.pm/simple_rabbitmq_consumer/readme.html)
+* *azure_ad_openid* - Elixir client for Azure Active Directory using OpenID [docs](https://hexdocs.pm/azure_ad_openid/readme.html)
+* *mssql_ecto* - Updating the existing [mssql_ecto](https://github.com/findmypast-oss/mssql_ecto) repository to Ecto 3 [pull request](https://github.com/findmypast-oss/mssql_ecto/pull/44)
 
 ### Other contributions
 
